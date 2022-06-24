@@ -1,6 +1,5 @@
-# xxx
+# Flutter firebase CRUD and Notfitication demo
 
-A new Flutter project.
 
 ## Getting Started
 
